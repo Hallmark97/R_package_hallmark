@@ -1,0 +1,11 @@
+Package: HallmarkRPackage
+Title: R Package for project 3
+Version: 0.0.0.9000
+Authors@R: 
+    person("Kyle", "Hallmark", , "kyle.hallmark@selu.edu", role = c("aut", "cre")),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Cleans up NA values, plots histogram and test for any significant linear regresssion patterns.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
