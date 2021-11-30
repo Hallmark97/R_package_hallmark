@@ -1,6 +1,6 @@
 #' Use linear regression to see if there are any significance between two columns.
 #' 
-#' @param data (Data you are wanting to use)
+#' @param data (Data you are wanting to use) 
 #' @param col1 (column 1 used from data selected)
 #' @param col2 (column 2 used from data selected)
 #' 

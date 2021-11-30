@@ -1,6 +1,6 @@
 #' Take any two columns and plot them in a histogram
 #' 
-#' @param data (Data you are wanting to use)
+#' @param data (Data you are wanting to use) 
 #' @param col1 (1 of the columns selected from the data you are using)
 #' @param col2 (Another column from the data you are using)
 #'
